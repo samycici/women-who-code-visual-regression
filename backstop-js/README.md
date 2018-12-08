@@ -1,6 +1,6 @@
 # BackstopJS example project
 
-Example on how to test ng-pokedex with visual regression using the BackstopJS.
+Example on how to test visual regression using the BackstopJS.
 
 
 ### Prerequisites
