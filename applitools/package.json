@@ -1,0 +1,30 @@
+{
+  "name": "applitools-cypress",
+  "version": "1.0.0",
+  "description": "Visual Tests with Cypress and Applitools",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samycici/women-who-code-visual-regression"
+  },
+  "keywords": [
+    "cypress",
+    "applitools",
+    "visual-regression"
+  ],
+  "author": "Samanta Cicilis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samycici/women-who-code-visual-regression/issues"
+  },
+  "homepage": "https://github.com/samycici/women-who-code-visual-regression#readme",
+  "dependencies": {
+    "cypress": "^3.1.3",
+    "browser-sync": "^2.14.0"
+  },
+  "devDependencies": {
+    "@applitools/eyes.cypress": "^3.3.9"
+  }
+}
